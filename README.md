@@ -1,2 +1,2 @@
-# orvixa-site
-Official website for Orvixa LLC
+# Orvixa Site
+Official website for Orvixa LLC.

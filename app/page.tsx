@@ -19,7 +19,7 @@ export default function OrvixaLandingPage() {
         <section className="mx-auto grid max-w-7xl gap-12 px-6 py-20 md:grid-cols-[1.05fr_0.95fr] md:items-center md:py-28">
           <div>
             <p className="mb-5 text-xs font-semibold uppercase tracking-[0.35em] text-black/50">Orvixa LLC · United States</p>
-            <h1 className="max-w-3xl text-5xl font-semibold tracking-[-0.04em] text-[#111] md:text-7xl">Modern commerce for thoughtful consumer products.</h1>
+            <h1 className="max-w-3xl text-5xl font-semibold tracking-[-0.04em] text-[#111] md:text-5xl">Modern commerce for thoughtful consumer products.</h1>
             <p className="mt-7 max-w-2xl text-lg leading-8 text-black/60">Orvixa is a U.S.-based e-commerce company focused on product sourcing, brand development, and online distribution through global digital marketplaces.</p>
             <div className="mt-10 flex flex-col gap-3 sm:flex-row">
               <a href="#business" className="rounded-full bg-[#111] px-7 py-3 text-center text-sm font-medium text-white transition hover:bg-black">Learn About Orvixa</a>
@@ -27,7 +27,7 @@ export default function OrvixaLandingPage() {
             </div>
           </div>
           <div className="relative overflow-hidden rounded-[2rem] border border-black/10 bg-white shadow-sm">
-            <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1400&q=85" alt="Premium modern home interior" className="h-[560px] w-full object-cover" />
+            <img src="https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=1400&q=85" alt="Premium modern home interior" className="h-[360px] w-full object-cover" />
             <div className="absolute inset-0 bg-gradient-to-t from-black/35 via-transparent to-transparent" />
             <div className="absolute bottom-6 left-6 right-6 rounded-2xl bg-white/85 p-5 shadow-sm backdrop-blur">
               <p className="text-sm font-medium text-black">Product sourcing · Branding · Online distribution</p>

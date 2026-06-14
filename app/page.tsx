@@ -219,7 +219,6 @@ return ( <div className="min-h-screen bg-gradient-to-b from-white to-slate-50 te
     </div>
   </footer>
 </div>
-```
 
 );
 }
